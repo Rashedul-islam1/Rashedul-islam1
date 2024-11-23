@@ -1,4 +1,5 @@
-  <img alt="html5" src="./assets/banner1.png" />/
+<!-- <img alt="html5" src="./assets/banner1.png" /> -->
+
 
 ## About Me 
 
