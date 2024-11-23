@@ -1,4 +1,4 @@
-<!-- <img alt="html5" src="./assets/banner1.png" /> -->
+<img alt="html5" src="[./assets/banner1.png](https://i.ibb.co.com/DY2N2fY/github-header-image-6.png)" />
 
 
 ## About Me 
